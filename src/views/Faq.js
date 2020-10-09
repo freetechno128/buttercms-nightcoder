@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import butter from './butter-client'
+import butter from '../butter-client'
 
 class Faq extends Component {
   state = {

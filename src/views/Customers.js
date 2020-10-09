@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import butter from './butter-client'
+import butter from '../butter-client'
 
 export default class extends React.Component {
   state = { data: [] }

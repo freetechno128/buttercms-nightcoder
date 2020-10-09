@@ -1,6 +1,7 @@
 import React from 'react'
-import butter from './butter-client'
+import butter from '../butter-client'
 import { Helmet } from 'react-helmet'
+
 
 export default class extends React.Component {
   state = {

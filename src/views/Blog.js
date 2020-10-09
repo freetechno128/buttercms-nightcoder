@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
-import butter from './butter-client'
+import butter from '../butter-client'
 
 class App extends Component {
   state = {

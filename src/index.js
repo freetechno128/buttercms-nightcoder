@@ -2,14 +2,14 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
-import Blog from './Blog'
-import BlogPost from './BlogPost'
-import Categories from './Categories'
-import Category from './Category'
-import Customers from './Customers'
-import Customer from './Customer'
-import Faq from './Faq'
-import Homepage from './Homepage'
+import Blog from './views/Blog'
+import BlogPost from './views/BlogPost'
+import Categories from './views/Categories'
+import Category from './views/Category'
+import Customers from './views/Customers'
+import Customer from './views/Customer'
+import Faq from './views/Faq'
+import Homepage from './views/Homepage'
 
 const AppRouter = () => (
   <Router>

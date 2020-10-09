@@ -1,5 +1,5 @@
 import React from 'react'
-import butter from './butter-client'
+import butter from '../butter-client'
 
 export default class extends React.Component {
   state = {
